@@ -1,6 +1,6 @@
 cask "clowder" do
-  version "0.6.0"
-  sha256 "1f188d4782e54797dea8e9a947a7b47ff21f241681042bf4aa98003f2415e9b5"
+  version "v0.7.0"
+  sha256 "c3af69e1985cb6e46d16cdd562ac52610aa95b772e1fdcb7b63c6c374ae4170e"
 
   url "https://github.com/defiantsoftware/homebrew-clowder/releases/download/v#{version}/Clowder-#{version}-macos.dmg",
       verified: "github.com/defiantsoftware/homebrew-clowder/"
